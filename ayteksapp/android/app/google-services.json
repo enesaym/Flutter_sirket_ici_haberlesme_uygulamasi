@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144537505248",
+    "project_id": "ayteks-c5fd3",
+    "storage_bucket": "ayteks-c5fd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144537505248:android:5c6dba057cba0c1cd1af85",
+        "android_client_info": {
+          "package_name": "com.example.ayteksapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144537505248-cn4c0km3fa0enrtmsmrbu48vdhsp0vcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2LHUjwCtNm6Niq8iojXcHTdFbmN-9qm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144537505248-cn4c0km3fa0enrtmsmrbu48vdhsp0vcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
